@@ -3,8 +3,8 @@ It uses JSP for the frontend interface, Java Servlets for backend operations, an
 Developed in Eclipse with Java EE and deployed on Apache Tomcat, it enables efficient management of courses, users, and educational content.
 
 Technology Stack
-Frontend: JavaServer Pages (JSP), HTML, CSS, JavaScript
-Backend: Java Servlets, MySQL Database
-Framework: Java EE (Enterprise Edition)
-IDE: Eclipse or STS
+Frontend: JavaServer Pages (JSP), HTML, CSS, JavaScript.
+Backend: Java Servlets, MySQL Database.
+Framework: Java EE (Enterprise Edition).
+IDE: Eclipse or STS.
 Server: Apache Tomcat or equivalent
